@@ -1,7 +1,11 @@
 {
-	"userId": 1,
-	"id": 1,
-	"title": "delectus aut autem",
-	"completed": false,
-	"_type": null
+  "gets": [
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "delectus aut autem",
+        "completed": false,
+        "_type": null
+    }    
+  ]
 }
