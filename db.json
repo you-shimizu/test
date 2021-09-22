@@ -3,9 +3,16 @@
     {
         "userId": 1,
         "id": 1,
-        "title": "delectus aut autem",
+        "title": "user 1",
         "completed": false,
         "_type": null
-    }    
+    },
+    {
+        "userId": 2,
+        "id": 2,
+        "title": "user 2",
+        "completed": true,
+        "_type": "type"
+    }  
   ]
 }
